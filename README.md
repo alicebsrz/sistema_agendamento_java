@@ -2,15 +2,15 @@
 
 Meu primeiro projeto utilizando Java com Spring Boot — desenvolvido com foco em boas práticas, arquitetura limpa e integração completa entre backend e frontend.
 
-## 🚀 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto é uma aplicação web completa de agendamento, onde é possível criar, visualizar e remover agendamentos de forma dinâmica.
 
 Mais do que um CRUD, o sistema foi desenvolvido simulando regras reais de negócio, como:
-✨ Bloqueio de horários duplicados
-✨ Validação de dados (ex: datas no passado)
-✨ Comunicação eficiente entre frontend e backend
-
+* Bloqueio de horários duplicados
+* Validação de dados (ex: datas no passado)
+* Comunicação eficiente entre frontend e backend
+  
 O objetivo foi ir além do básico e construir algo com estrutura próxima de um sistema real de produção.
 
 ## 🧩 Stack Utilizada
