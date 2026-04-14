@@ -16,7 +16,7 @@ O objetivo foi ir além do básico e construir algo com estrutura próxima de um
 ## 🧩 Stack Utilizada
 
 ### 🔧 Backend
-* Java 17/21
+* Java 17
 * Spring Boot 3+
 * Spring Web
 * Spring Data JPA / Hibernate
