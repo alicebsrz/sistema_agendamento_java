@@ -1,0 +1,1 @@
+// Arquivo movido para src/main/java/com/portfolio/agendamento/service/AgendamentoService.java
